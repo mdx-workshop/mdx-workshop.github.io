@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter Portfolio: Cara
+  MDX-Workshop website, created using gatsby
 </h1>
 
 <p align="center">
