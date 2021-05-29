@@ -1,0 +1,7 @@
+{
+  "main.js": "render-page.js",
+  "main.js.map": "render-page.js.map",
+  "static/drums.png": "static/drums-d00ceafaf6af2896462a88898da6690f.png",
+  "static/piano.png": "static/piano-ae9ef3b597544082f35d31e1ef288d2b.png",
+  "static/sax.png": "static/sax-eb633e7dcc1d111725a330a4aa3deb68.png"
+}
